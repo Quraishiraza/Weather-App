@@ -6,11 +6,11 @@
 }
 body {
   font-family: 'Roboto', sans-serif;
-  background-image: url("img/bg1.jpg");
+  /* background-image: url("img/bg1.jpg"); */
   min-height: 92vh;
   overflow: auto;
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center;
   background-size: cover;
 }
 
